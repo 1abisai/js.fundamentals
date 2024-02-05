@@ -1,4 +1,4 @@
-//I worked with Austin, Billy, Hakeem, Johnny
+//I worked with Austin, Billiant, Hakeem, Johnny
 //-----------out put 1--------------------
 // const cars = ['Tesla', 'Mercedes', 'Honda']
 // const [ randomCar ] = cars
